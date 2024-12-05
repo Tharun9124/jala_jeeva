@@ -1,8 +1,9 @@
 streamlit==1.2.0
-tensorflow==2.6
+tensorflow==2.16.2
 opencv-python
 pandas
 altair
 folium
 Pillow
 streamlit-folium
+
